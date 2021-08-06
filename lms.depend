@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1386440676 source:d:\myfiles\lms\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386360578 d:\myfiles\lms\conio2.h
+	<conio.h>
+	<windows.h>
+
+1570107181 source:d:\myfiles\lms\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"lms.h"
+
+1569991909 d:\myfiles\lms\lms.h
+
+1570107115 source:d:\myfiles\lms\lms.c
+	<stdio.h>
+	<string.h>
+	"lms.h"
+	<stdlib.h>
+	"conio2.h"
+
